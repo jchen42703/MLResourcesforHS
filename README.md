@@ -3,12 +3,12 @@ Guide tailored to those in high school looking to learn machine learning <br>
 __Primarily based on this rough draft:__ [draft](https://docs.google.com/document/d/19xvA0FhQrcueUCs1FI0rxI0jy4mii_O7mvtcjx-KH5I/edit?usp=sharing) <br>
 # Machine Learning Resources 
 ## Introduction
-	Machine learning is no joke and there’s a ton of higher level mathematics involved. However, it’s entirely doable for anyone willing to put the time and dedication into it. I recommend that you read through the entirety of this resource before actually starting anything and don’t be afraid to ask questions!
-	Also, note that if you find any resources that you feel are extremely helpful, please contact jchen42703@gmail.com for suggestions. 
+Machine learning is no joke and there’s a ton of higher level mathematics involved. However, it’s entirely doable for anyone willing to put the time and dedication into it. I recommend that you read through the entirety of this resource before actually starting anything and don’t be afraid to ask questions! <br>
+Also, note that if you find any resources that you feel are extremely helpful, please open up a pull request/issue.
 
 ## General Tips 
-	When you start to code, I highly recommend that you ask for someone to review your code on a consistent basis depending on the difficulty of the issue. It will save a lot of time.  Also, note that the hard part is always preprocessing the data and physically setting the hyperparameters/configuring the architecture of the NN/machine learning pipelines. The nuances with this process comes with experience, exposure, and a lot of failure.
-	I know that there’s a lot of resources and stuff to go over, but here’s what I recommend doing:
+When you start to code, I highly recommend that you ask for someone to review your code on a consistent basis depending on the difficulty of the issue. It will save a lot of time.  Also, note that the hard part is always preprocessing the data and physically setting the hyperparameters/configuring the architecture of the NN/machine learning pipelines. The nuances with this process comes with experience, exposure, and a lot of failure. <br>
+I know that there’s a lot of resources and stuff to go over, but here’s what I recommend doing:
 * As you’re learning about the theory and mathematics, refer back to the code implementations to see how it really works. Don’t burn yourself out in the beginning. Take 5-10 minute breaks in between sessions and try to mix up your work (i.e. an hour of paper writing, then an hour of education, then an hour of coding/implementation, an hour of review, paper reading, and education and repeat). 
 * If you feel like you’re losing motivation,  you’re tired, or stumped, take a 1-2 day break and come back with a fresh mind.
 * Familiarize yourself with the data science/DL packages; you’d be surprised at how insanely good numpy, keras, and sklearn are. 
@@ -65,7 +65,7 @@ Links to documentation; some documentation is confusing and convoluted, so I rec
 
 ## Other
 * https://github.com/wch/latexsheet
-	* Use latex along with google docs to write your paper. 
+	* [Overleaf](https://www.overleaf.com/)
 * Youtube Channels
 	* https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
 		* Siraj Raval, cringy but puts out great content for the most part (older videos are kinda wack)
@@ -73,13 +73,12 @@ Links to documentation; some documentation is confusing and convoluted, so I rec
 		* 3blue1brown, educational videos on mathematics, machine learning, etc. 
 * Quora
 	* I highly recommend that you read these answers. They are fantastic resources if you’re down to go 1000%  into ML.
-https://www.quora.com/What-is-the-best-way-to-start-an-AI-ML-career-without-studying-it-at-university
-https://www.quora.com/How-should-I-start-learning-the-maths-for-machine-learning-and-from-where
-https://www.quora.com/How-long-does-it-take-for-a-experienced-programmer-to-learn-machine-learning
-https://www.quora.com/What-tips-do-you-give-to-people-who-want-to-start-learning-robotics
-https://www.quora.com/What-should-I-do-if-I-only-have-4-months-to-learn-data-science-and-machine-learning
-Textbooks + Misc
-https://drive.google.com/open?id=1EVZ9ln4bZbLGFWI9baWr2E5lrMNmfPQk
+		* https://www.quora.com/What-is-the-best-way-to-start-an-AI-ML-career-without-studying-it-at-university
+		* https://www.quora.com/How-should-I-start-learning-the-maths-for-machine-learning-and-from-where
+		* https://www.quora.com/How-long-does-it-take-for-a-experienced-programmer-to-learn-machine-learning
+		* https://www.quora.com/What-tips-do-you-give-to-people-who-want-to-start-learning-robotics
+		* https://www.quora.com/What-should-I-do-if-I-only-have-4-months-to-learn-data-science-and-machine-learning
+* [Textbooks + Misc](https://drive.google.com/open?id=1EVZ9ln4bZbLGFWI9baWr2E5lrMNmfPQk)
 
 
 Judging and NYCSEF
