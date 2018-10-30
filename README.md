@@ -29,7 +29,7 @@ When you’re reading your papers, read them with purpose and ask questions whil
 You don’t need to fully understand everything, but you’ll know that you have gaps in your knowledge if you don’t understand the code implementations of the “From Scratch Repositories.” If your project is on unsupervised learning, then go over the GAN chapters (read the entire book).
 * https://www.edx.org/course/deep-learning-explained
 Provides great foundation for DL
-<br>
+
 ### CNNs
 * For image data, just know how it works, such as how they’re related to matrices, how preprocessing procedures affect their quality/values, and how to adapt your pipeline to your specific dataset (i.e. 1 channel v. 3 channels). 
 * http://cs231n.github.io/convolutional-networks/#pool
