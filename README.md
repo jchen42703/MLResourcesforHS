@@ -51,17 +51,17 @@ Note: Others will be topic specific.
 
 ## Programming
 Links to documentation; some documentation is confusing and convoluted, so I recommend asking someone (i.e. from a ML discord) for clarification. For understanding the application of the packages, it’s best to look at code examples and read papers in your field. 
+* Fast-Paced: [Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA)
 * https://www.edx.org/course/using-python-research-harvardx-ph526x-0
 	* For background to data science packages
 * https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607
 	* Basic tips for implementing neural networks well
 * https://www.tensorflow.org/programmers_guide/
-* https://keras.io/
-* https://keras.io/preprocessing/image/
-* https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/
-* https://docs.scipy.org/doc/numpy-1.14.0/reference/
-* http://scikit-learn.org/stable/
-
+* __Documentation__
+	* https://keras.io/
+	* https://keras.io/preprocessing/image/
+	* https://docs.scipy.org/doc/numpy-1.14.0/reference/
+	* http://scikit-learn.org/stable/
 
 ## Other
 * https://github.com/wch/latexsheet
@@ -79,9 +79,5 @@ Links to documentation; some documentation is confusing and convoluted, so I rec
 		* https://www.quora.com/What-tips-do-you-give-to-people-who-want-to-start-learning-robotics
 		* https://www.quora.com/What-should-I-do-if-I-only-have-4-months-to-learn-data-science-and-machine-learning
 * [Textbooks + Misc](https://drive.google.com/open?id=1EVZ9ln4bZbLGFWI9baWr2E5lrMNmfPQk)
-
-
-Judging and NYCSEF
--> most likely will be combined with the group NYCSEF prep resources
 
 	
