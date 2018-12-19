@@ -62,6 +62,8 @@ Links to documentation; some documentation is confusing and convoluted, so I rec
 	* https://keras.io/preprocessing/image/
 	* https://docs.scipy.org/doc/numpy-1.14.0/reference/
 	* http://scikit-learn.org/stable/
+* __Data Science__
+	* https://www.udacity.com/course/intro-to-data-analysis--ud170
 
 ## Other
 * https://github.com/wch/latexsheet
