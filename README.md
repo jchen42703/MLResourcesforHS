@@ -47,7 +47,7 @@ Provides great foundation for DL
 * https://github.com/terryum/awesome-deep-learning-papers
 * https://github.com/dennybritz/nn-from-scratch
 * https://github.com/sugyan/tensorflow-mnist
-Note: Others will be topic specific.
+	* Note: Others will be topic specific.
 
 ## Programming
 Links to documentation; some documentation is confusing and convoluted, so I recommend asking someone (i.e. from a ML discord) for clarification. For understanding the application of the packages, it’s best to look at code examples and read papers in your field. 
